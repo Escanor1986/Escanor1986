@@ -39,7 +39,7 @@ Développeur passionné avec une expertise variée dans le domaine du développe
   ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
 
 
-Je suis également familier avec les pratiques de développement telles que les pipelines CI/CD, l'automatisation des tests, et la gestion de versions avec Git et GitHub.
+Je suis également familier avec les pratiques de développement telles que les pipelines CI/CD (github actions), l'automatisation des tests, et la gestion de versions avec Git et GitHub.
 
 ## Projets récents
 
@@ -53,7 +53,7 @@ N'hésitez pas à explorer mes repositories pour découvrir l'ensemble de mes pr
 
 ## Formation et Compétences
 
-Outre mes compétences techniques, je mets l'accent sur le développement continu en apprenant de nouvelles technologies et en perfectionnant mes compétences existantes. Je suis également équipé de solides soft skills, notamment la capacité à travailler en équipe, à résoudre des problèmes complexes et à mener à bien des projets.
+Outre mes compétences techniques, je mets l'accent sur le développement continu en apprenant de nouvelles technologies et en perfectionnant mes compétences existantes. J'ai également développé de solides soft skills au cours de mon parcours professionnel, notamment la capacité à travailler en équipe, à gérer une/des équipes, à résoudre des problèmes complexes et à mener à bien des projets divers et variés. Deux de mes points forts sont Ma résistance au stress et ma capacité de résilience/adaptation.
 
 Pour en savoir plus sur mon parcours professionnel et mes réalisations, n'hésitez pas à consulter mon [profil LinkedIn](linkedin.com/in/lionelzovi) et mon [portfolio personnel (temporaire)](escanor1986.github.io/CV_Dev/).
 

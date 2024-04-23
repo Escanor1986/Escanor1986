@@ -8,6 +8,7 @@ Développeur passionné avec une expertise variée dans le domaine du développe
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 - Frameworks : 
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
@@ -34,6 +35,8 @@ Développeur passionné avec une expertise variée dans le domaine du développe
   ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)
   ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=flat)
   ![Vitest](https://img.shields.io/badge/-Vitest-646CFF?logo=vite&logoColor=white&style=flat)
+- Outils CI/CD :
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
 
 
 Je suis également familier avec les pratiques de développement telles que les pipelines CI/CD, l'automatisation des tests, et la gestion de versions avec Git et GitHub.

@@ -33,7 +33,7 @@ Développeur passionné avec une expertise variée dans le domaine du développe
 - Outils de test : 
   ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)
   ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=flat)
-  ![Vite Test](https://img.shields.io/badge/-Vite_Test-646CFF?logo=vite&logoColor=white&style=flat)
+  ![Vitest](https://img.shields.io/badge/-Vitest-646CFF?logo=vite&logoColor=white&style=flat)
 
 
 Je suis également familier avec les pratiques de développement telles que les pipelines CI/CD, l'automatisation des tests, et la gestion de versions avec Git et GitHub.

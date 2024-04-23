@@ -43,7 +43,7 @@ Je suis également familier avec les pratiques de développement telles que les 
 
 ## Projets récents
 
-![E-commerce icônes](https://image.flaticon.com/icons/png/512/3592/3592721.png)(https://www.flaticon.com/fr/icones-gratuites/e-commerce)
+![E-commerce icônes](https://image.flaticon.com/icons/png/512/3592/3592721.png)
 
 ### [Page produit site e-commerce](https://github.com/Escanor1986/Page_produit_site_e_commerce) - Page produit d'un site de e-commerce en React avec typescript via vite avec tailwind et story book. Maquette depuis Figma..
 

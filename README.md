@@ -1,6 +1,6 @@
-<span style="color:#FF00FF;">### Hi there, it's Lio 👋</span>
+### Hi there, it's Lio 👋
 
-<span style="color:#00FF00;"># Bienvenue sur mon profil GitHub ! 👋</span>
+# Bienvenue sur mon profil GitHub ! 👋
 
 Développeur passionné avec une expertise variée dans le domaine du développement web et logiciel, Je travaille principalement avec les technologies suivantes :
 
@@ -38,7 +38,7 @@ Développeur passionné avec une expertise variée dans le domaine du développe
 
 Je suis également familier avec les pratiques de développement telles que les pipelines CI/CD, l'automatisation des tests, et la gestion de versions avec Git et GitHub.
 
-<span style="color:#FF00FF;">## Projets récents</span>
+## Projets récents
 
 ### [Page produit site e-commerce](https://github.com/Escanor1986/Page_produit_site_e_commerce) - Page produit d'un site de e-commerce en React avec typescript via vite avec tailwind et story book. Maquette depuis Figma..
 
@@ -48,7 +48,7 @@ Je suis également familier avec les pratiques de développement telles que les 
 
 N'hésitez pas à explorer mes repositories pour découvrir l'ensemble de mes projets !
 
-<span style="color:#FF00FF;">## Formation et Compétences</span>
+## Formation et Compétences
 
 Outre mes compétences techniques, je mets l'accent sur le développement continu en apprenant de nouvelles technologies et en perfectionnant mes compétences existantes. Je suis également équipé de solides soft skills, notamment la capacité à travailler en équipe, à résoudre des problèmes complexes et à mener à bien des projets.
 

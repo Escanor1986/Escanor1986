@@ -47,7 +47,6 @@ Je suis également familier avec les pratiques de développement telles que les 
 
 ### [Page produit site e-commerce](https://github.com/Escanor1986/Page_produit_site_e_commerce) - Page produit d'un site de e-commerce en React avec typescript via vite avec tailwind et story book. Maquette depuis Figma..
 
-
 ### [Calculatrice](https://github.com/Escanor1986/Calculatrice-en-TypeScript-avec-Tailwind) - Application de calculatrice qui prend en charge les opérations de base (addition, soustraction, multiplication, division) avec une interface utilisateur conviviale. Utilisation de TypeScript pour renforcer le typage et la maintenance du code.
 
 ### [Todo List](https://github.com/Escanor1986/React-Todo) - Cette application TodoList est un exemple simple de gestion des tâches à faire. Elle vous permet d'ajouter, de supprimer, de valider et de modifier des tâches. Utilisation d'une architecture complexe en combinant l'utilisation des hooks useReducer et useContext afin de rendre le code scalable et maintenable.

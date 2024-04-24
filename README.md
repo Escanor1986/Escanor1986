@@ -1,4 +1,4 @@
-![Minions Hello](minion_wave.png) # Bienvenue sur mon profil GitHub !
+# ![Minions Hello](minion_wave.png) Bienvenue sur mon profil GitHub !
 
 Développeur passionné avec une expertise variée dans le domaine du développement web et logiciel, Je travaille principalement avec les technologies suivantes :
 

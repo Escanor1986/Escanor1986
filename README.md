@@ -1,4 +1,4 @@
-### Hi there, it's Lio 👋
+### Hi there, it's Lio 👋 ![Minions Hello](minion_wave.png)
 
 # Bienvenue sur mon profil GitHub ! 👋
 

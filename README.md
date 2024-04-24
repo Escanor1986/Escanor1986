@@ -1,4 +1,4 @@
-### Hi there, it's Lio 👋 ![Minions Hello](minion_wave.png)
+![Minions Hello](minion_wave.png)
 
 # Bienvenue sur mon profil GitHub ! 👋
 
@@ -41,6 +41,8 @@ Développeur passionné avec une expertise variée dans le domaine du développe
 
 Je suis également familier avec les pratiques de développement telles que les pipelines CI/CD (github actions), l'automatisation des tests, et la gestion de versions avec Git et GitHub.
 
+![Projets récents](notes_minion.png)
+
 ## Projets récents
 
 ### [Page produit site e-commerce](https://github.com/Escanor1986/Page_produit_site_e_commerce) - Page produit d'un site de e-commerce en React avec typescript via vite avec tailwind et story book. Maquette depuis Figma..
@@ -58,3 +60,5 @@ Outre mes compétences techniques, je mets l'accent sur le développement contin
 Pour en savoir plus sur mon parcours professionnel et mes réalisations, n'hésitez pas à consulter mon [profil LinkedIn](linkedin.com/in/lionelzovi) et mon [portfolio personnel (temporaire)](escanor1986.github.io/CV_Dev/).
 
 N'hésitez pas à me contacter si vous souhaitez discuter de collaborations, de projets intéressants ou simplement échanger des idées ! 😊
+
+![micro drop minion](micdropminion.gif)

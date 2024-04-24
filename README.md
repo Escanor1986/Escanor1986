@@ -43,7 +43,7 @@ Je suis également familier avec les pratiques de développement telles que les 
 
 ## Projets récents
 
-### [Page produit site e-commerce](https://github.com/Escanor1986/Page_produit_site_e_commerce) ![logo e-commerce](commerce-electronique.png) - Page produit d'un site de e-commerce en React avec typescript via vite avec tailwind et story book. Maquette depuis Figma..
+### [Page produit site e-commerce](https://github.com/Escanor1986/Page_produit_site_e_commerce) - Page produit d'un site de e-commerce en React avec typescript via vite avec tailwind et story book. Maquette depuis Figma..
 
 ### [Calculatrice](https://github.com/Escanor1986/Calculatrice-en-TypeScript-avec-Tailwind) - Application de calculatrice qui prend en charge les opérations de base (addition, soustraction, multiplication, division) avec une interface utilisateur conviviale. Utilisation de TypeScript pour renforcer le typage et la maintenance du code.
 

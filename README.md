@@ -41,7 +41,8 @@ Je suis également familier avec les pratiques de développement telles que les 
 
 ## ![Projets récents](notes_minion.png) Projets récents
 
-### [Page produit site e-commerce](https://github.com/Escanor1986/Page_produit_site_e_commerce) - Page produit d'un site de e-commerce en React avec typescript via vite avec tailwind et story book. Maquette depuis Figma..
+
+### [Page produit site e-commerce](https://github.com/Escanor1986/Page_produit_site_e_commerce) ![Stars](https://img.shields.io/github/stars/Escanor1986/Page_produit_site_e_commerce?style=social) - Page produit d'un site de e-commerce en React avec typescript via vite avec tailwind et story book. Maquette depuis Figma..
 
 ### [Calculatrice](https://github.com/Escanor1986/Calculatrice-en-TypeScript-avec-Tailwind) - Application de calculatrice qui prend en charge les opérations de base (addition, soustraction, multiplication, division) avec une interface utilisateur conviviale. Utilisation de TypeScript pour renforcer le typage et la maintenance du code.
 
@@ -52,14 +53,6 @@ N'hésitez pas à explorer mes repositories pour découvrir l'ensemble de mes pr
 ## ![Projets récents](ugh_minion.png) Formations et Compétences
 
 Outre mes compétences techniques, je mets l'accent sur le développement continu en apprenant de nouvelles technologies et en perfectionnant mes compétences existantes. J'ai également développé de solides soft skills au cours de mon parcours professionnel, notamment la capacité à travailler en équipe, à gérer une/des équipes, à résoudre des problèmes complexes et à mener à bien des projets divers et variés. Deux de mes points forts sont Ma résistance au stress et ma capacité de résilience/adaptation.
-
-## ![Projets récents](whatever_minion.jpg) Badges GitHub
-
-### Build
-![Build](https://github.com/Escanor1986/Page_produit_site_e_commerce/actions/workflows/build.yml/badge.svg)
-
-### Stars
-![Stars](https://img.shields.io/github/stars/Escanor1986/Page_produit_site_e_commerce?style=social)
 
 ## ![Projets récents](minion-fire.jpg) Contact
 

@@ -49,9 +49,19 @@ Je suis également familier avec les pratiques de développement telles que les 
 
 N'hésitez pas à explorer mes repositories pour découvrir l'ensemble de mes projets !
 
-## ![Projets récents](ugh_minion.png) Formation et Compétences
+## ![Projets récents](ugh_minion.png) Formations et Compétences
 
 Outre mes compétences techniques, je mets l'accent sur le développement continu en apprenant de nouvelles technologies et en perfectionnant mes compétences existantes. J'ai également développé de solides soft skills au cours de mon parcours professionnel, notamment la capacité à travailler en équipe, à gérer une/des équipes, à résoudre des problèmes complexes et à mener à bien des projets divers et variés. Deux de mes points forts sont Ma résistance au stress et ma capacité de résilience/adaptation.
+
+## ![Projets récents](whatever_minion.jpg) Badges GitHub
+
+### Build
+![Build](https://github.com/Escanor1986/Page_produit_site_e_commerce/actions/workflows/build.yml/badge.svg)
+
+### Stars
+![Stars](https://img.shields.io/github/stars/Escanor1986/Page_produit_site_e_commerce?style=social)
+
+## ![Projets récents](minion-fire.jpg) Contact
 
 Pour en savoir plus sur mon parcours professionnel et mes réalisations, n'hésitez pas à consulter mon [profil LinkedIn](linkedin.com/in/lionelzovi) et mon [portfolio personnel (temporaire)](escanor1986.github.io/CV_Dev/).
 

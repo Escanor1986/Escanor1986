@@ -41,11 +41,11 @@ Je suis également familier avec les pratiques de développement telles que les 
 
 ## ![Projets récents](fireworkghibliq.gif) Projets récents
 
-| Projet | Description |
-|--------|-------------|
-| [Page produit site e-commerce](https://github.com/Escanor1986/Page_produit_site_e_commerce) | Page produit d'un site de e-commerce en React avec TypeScript via Vite avec Tailwind et Storybook. Maquette depuis Figma. |
-| [Calculatrice](https://github.com/Escanor1986/Calculatrice-en-TypeScript-avec-Tailwind) | Application de calculatrice qui prend en charge les opérations de base (addition, soustraction, multiplication, division) avec une interface utilisateur conviviale. Utilisation de TypeScript pour renforcer le typage et la maintenance du code. |
-| [Todo List](https://github.com/Escanor1986/React-Todo) | Cette application TodoList est un exemple simple de gestion des tâches à faire. Elle vous permet d'ajouter, de supprimer, de valider et de modifier des tâches. Utilisation d'une architecture complexe en combinant l'utilisation des hooks useReducer et useContext afin de rendre le code scalable et maintenable. |
+| Projet | Description | Preview |
+|--------|-------------|---------|
+| [Page produit site e-commerce](https://github.com/Escanor1986/Page_produit_site_e_commerce) | Page produit d'un site de e-commerce en React avec TypeScript via Vite avec Tailwind et Storybook. Maquette depuis Figma. | ![preview 1](minion_wave.png) |
+| [Calculatrice](https://github.com/Escanor1986/Calculatrice-en-TypeScript-avec-Tailwind) | Application de calculatrice qui prend en charge les opérations de base (addition, soustraction, multiplication, division) avec une interface utilisateur conviviale. Utilisation de TypeScript pour renforcer le typage et la maintenance du code. | test |
+| [Todo List](https://github.com/Escanor1986/React-Todo) | Cette application TodoList est un exemple simple de gestion des tâches à faire. Elle vous permet d'ajouter, de supprimer, de valider et de modifier des tâches. Utilisation d'une architecture complexe en combinant l'utilisation des hooks useReducer et useContext afin de rendre le code scalable et maintenable. | test |
 
 N'hésitez pas à explorer mes repositories pour découvrir l'ensemble de mes projets !
 

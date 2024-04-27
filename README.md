@@ -25,9 +25,7 @@ Développeur passionné avec une expertise variée dans le domaine du développe
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 - Outils de déploiement :
   ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
-  ![Docker]((https://github.com/Escanor1986/Escanor1986/assets/108151402/5e9a9ae4-69b8-4a77-90d6-ecaa01aa2006)
-(https://github.com/Escanor1986/Escanor1986/assets/108151402/19295240-d13a-480e-8909-5a7a765fbc50)
-https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat)
 - Outils de build : 
   ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=flat)

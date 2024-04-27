@@ -25,7 +25,9 @@ Développeur passionné avec une expertise variée dans le domaine du développe
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 - Outils de déploiement :
   ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+  ![Docker](![calculatrice](https://github.com/Escanor1986/Escanor1986/assets/108151402/5e9a9ae4-69b8-4a77-90d6-ecaa01aa2006)
+![ecommerce](https://github.com/Escanor1986/Escanor1986/assets/108151402/19295240-d13a-480e-8909-5a7a765fbc50)
+https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat)
 - Outils de build : 
   ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=flat)
@@ -43,9 +45,9 @@ Je suis également familier avec les pratiques de développement telles que les 
 
 | Projet | Description | Preview |
 |--------|-------------|---------|
-| [Page produit site e-commerce](https://github.com/Escanor1986/Page_produit_site_e_commerce) | Page produit d'un site de e-commerce en React avec TypeScript via Vite avec Tailwind et Storybook. Maquette depuis Figma. | test |
-| [Calculatrice](https://github.com/Escanor1986/Calculatrice-en-TypeScript-avec-Tailwind) | Application de calculatrice qui prend en charge les opérations de base (addition, soustraction, multiplication, division) avec une interface utilisateur conviviale. Utilisation de TypeScript pour renforcer le typage et la maintenance du code. | test |
-| [Todo List](https://github.com/Escanor1986/React-Todo) | Cette application TodoList est un exemple simple de gestion des tâches à faire. Elle vous permet d'ajouter, de supprimer, de valider et de modifier des tâches. Utilisation d'une architecture complexe en combinant l'utilisation des hooks useReducer et useContext afin de rendre le code scalable et maintenable. [Lien vers l'app en ligne](https://escanor1986.github.io/React-Todo/) | ![preview todo](todo.png) |
+| [Page produit site e-commerce](https://github.com/Escanor1986/Page_produit_site_e_commerce) | Page produit d'un site de e-commerce en React avec TypeScript via Vite avec Tailwind et Storybook. Maquette depuis Figma. [App Link](https://escanor1986.github.io/Page_produit_site_e_commerce/) | ![preview e-commerce](ecommerce.png) |
+| [Calculatrice](https://github.com/Escanor1986/Calculatrice-en-TypeScript-avec-Tailwind) | Application de calculatrice qui prend en charge les opérations de base (addition, soustraction, multiplication, division) avec une interface utilisateur conviviale. Utilisation de TypeScript pour renforcer le typage et la maintenance du code. [App Link](https://escanor1986.github.io/Calculatrice-en-TypeScript-avec-Tailwind/) | ![preview calculatrice](calculatrice.png) |
+| [Todo List](https://github.com/Escanor1986/React-Todo) | Cette application TodoList est un exemple simple de gestion des tâches à faire. Elle vous permet d'ajouter, de supprimer, de valider et de modifier des tâches. Utilisation d'une architecture complexe en combinant l'utilisation des hooks useReducer et useContext afin de rendre le code scalable et maintenable. [App Link](https://escanor1986.github.io/React-Todo/) | ![preview todo](todo.png) |
 
 N'hésitez pas à explorer mes repositories pour découvrir l'ensemble de mes projets !
 

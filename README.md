@@ -54,6 +54,7 @@ Je suis également familier avec les pratiques de développement telles que les 
 | [Site de restaurants en ligne](https://github.com/Escanor1986/P3_Oh_My_Food) | Ohmyfood! est un site web interactif permettant aux utilisateurs de découvrir des restaurants d'exception et de composer leur menu préféré en ligne. [App Link](https://escanor1986.github.io/P3_Oh_My_Food/) | ![preview OhMyFood!](ohmyfood.png) | 
 | [Quizz - Culture générale](https://github.com/Escanor1986/Quizz) | Ce projet est une application web permettant de passer un quiz de culture générale. L'utilisateur peut répondre à plusieurs questions et voir ses résultats en fonction de ses réponses. [App Link](https://escanor1986.github.io/Quizz/) | ![preview Quizz - Culture générale](quizz.png) | 
 | [Calcule IMC](https://github.com/Escanor1986/Calcul_IMC) | Ce projet est une application web simple permettant de calculer l'Indice de Masse Corporelle (IMC) d'un utilisateur en fonction de sa taille et de son poids. [App Link](https://escanor1986.github.io/Calcul_IMC/) | ![preview Calcule IMC](imc.png) | 
+| [Agence La Panthère](https://github.com/Escanor1986/P4_La_Panthere) | Agence La Panthère est un site web présentant les services d'une agence web basée à Lyon. Le site met en avant les compétences de l'agence dans les domaines du web design, de la stratégie web et des illustrations. [App Link](https://escanor1986.github.io/P4_La_Panthere/) | ![preview Agence La Panthère](panthere.png) | 
 
 N'hésitez pas à explorer mes repositories pour découvrir l'ensemble de mes projets !
 

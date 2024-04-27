@@ -39,7 +39,7 @@ Développeur passionné avec une expertise variée dans le domaine du développe
 
 Je suis également familier avec les pratiques de développement telles que les pipelines CI/CD (GitHub Actions), l'automatisation des tests, et la gestion de versions avec Git et GitHub.
 
-## ![Projets récents](fireworkghibliq.gif) Projets récents
+## ![Projets récents](fireworkghibliq.gif)   Mes Projets
 
 | Projet | Description | Preview |
 |--------|-------------|---------|

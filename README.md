@@ -16,6 +16,7 @@ Développeur passionné avec une expertise variée dans le domaine du développe
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
   ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
+  ![Pug](https://img.shields.io/badge/-Pug-A86454?logo=pug&logoColor=white&style=flat)
 - Backend : 
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
@@ -36,6 +37,9 @@ Développeur passionné avec une expertise variée dans le domaine du développe
   ![Vitest](https://img.shields.io/badge/-Vitest-646CFF?logo=vite&logoColor=white&style=flat)
 - Outils CI/CD :
   ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
+- Libraries UI :
+  ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap_5-7952B3?logo=bootstrap&logoColor=white&style=flat)
+
 
 Je suis également familier avec les pratiques de développement telles que les pipelines CI/CD (GitHub Actions), l'automatisation des tests, et la gestion de versions avec Git et GitHub.
 

@@ -68,7 +68,7 @@ Outre mes compétences techniques, je mets l'accent sur le développement contin
 
 ## ![Contact](ghibli_ponyoq.png) Contact
 
-Pour en savoir plus sur mon parcours professionnel et mes réalisations, n'hésitez pas à consulter mon [profil LinkedIn](linkedin.com/in/lionelzovi) et mon [portfolio personnel (temporaire)](escanor1986.github.io/CV_Dev/).
+Pour en savoir plus sur mon parcours professionnel et mes réalisations, n'hésitez pas à consulter mon [profil LinkedIn](linkedin.com/in/lionelzovi).
 
 N'hésitez pas à me contacter si vous souhaitez discuter de collaborations, de projets intéressants ou simplement échanger des idées ! 😊
 

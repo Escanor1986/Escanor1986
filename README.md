@@ -7,7 +7,7 @@ Développeur passionné avec une expertise variée dans le domaine du développe
  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+  ![C++](https://img.shields.io/badge/-C++-007396?logo=java&logoColor=white&style=flat)
 - Frameworks : 
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)

@@ -18,7 +18,6 @@ Développeur passionné avec une expertise variée dans le domaine du développe
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?logo=docker&logoColor=white&style=flat)
 ![Google Artifact Registry](https://img.shields.io/badge/-Google%20Artifact%20Registry-4285F4?logo=googlecloud&logoColor=white&style=flat)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
 
 ---
 

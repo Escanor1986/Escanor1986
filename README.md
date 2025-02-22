@@ -1,28 +1,21 @@
 # ![Hello](ghiblibowq.png) Bienvenue sur mon profil GitHub ! ![Hello](ghibli1q.gif)
 
-Développeur passionné avec une expertise variée dans le domaine du développement web et logiciel, Je travaille principalement avec les technologies suivantes :
+Développeur passionné avec une expertise variée dans le domaine du développement web et logiciel, je travaille principalement avec les technologies suivantes :
 
-# 💻 Stack & Compétences
+---
+
+# **💻 Stack & Compétences**  
 
 ## **🌍 Cloud & Infrastructure**
-### **🔹 Cloud Providers**
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat)
+![Google Kubernetes Engine](https://img.shields.io/badge/-Google%20Kubernetes%20Engine-326CE5?logo=googlecloud&logoColor=white&style=flat)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
 
 ---
 
-## **🐳 Conteneurisation & Orchestration**
-### **🔹 Conteneurisation**
+## **🐳 Conteneurisation & DevOps**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?logo=docker&logoColor=white&style=flat)
-
-### **🔹 Orchestration**
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
-![Google Kubernetes Engine](https://img.shields.io/badge/-Google%20Kubernetes%20Engine-326CE5?logo=googlecloud&logoColor=white&style=flat)
-
----
-
-## **🚀 Déploiement & CI/CD**
-### **🔹 Infrastructure as Code & CI/CD**
 ![Google Artifact Registry](https://img.shields.io/badge/-Google%20Artifact%20Registry-4285F4?logo=googlecloud&logoColor=white&style=flat)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
@@ -30,39 +23,31 @@ Développeur passionné avec une expertise variée dans le domaine du développe
 ---
 
 ## **📡 Bases de données & Gestion des secrets**
-### **🔹 Bases de données**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat)
 ![Adminer](https://img.shields.io/badge/-Adminer-00A8E8?logo=mysql&logoColor=white&style=flat)
 
-### **🔹 Gestion des secrets & variables d’environnement**
-- Configuration `.env`
+🔹 **Gestion des secrets & variables d’environnement** :  
+- Configuration `.env`  
 - Variables d’environnement dans **Google Cloud**
 
 ---
 
-## **💻 Langages de programmation**
+## **💻 Langages & Frameworks**
 ### **🔹 Langages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat)
 
-### **🔹 Frameworks**
+### **🔹 Frameworks Frontend**
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![NextJS](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
 ![Astro](https://img.shields.io/badge/-Astro-FF5A03?logo=astro&logoColor=white&style=flat)
 
-### **🔹 Outils de styling**
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
-![Pug](https://img.shields.io/badge/-Pug-A86454?logo=pug&logoColor=white&style=flat)
-
-### **🔹 Backend**
+### **🔹 Frameworks Backend**
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
 ![Spring Data](https://img.shields.io/badge/-Spring%20Data-6DB33F?logo=spring&logoColor=white&style=flat)
@@ -72,12 +57,20 @@ Développeur passionné avec une expertise variée dans le domaine du développe
 
 ---
 
-## **🔧 Outils & Technologies**
-### **🔹 Outils de build**
+## **🎨 UI & Styling**
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
+![Pug](https://img.shields.io/badge/-Pug-A86454?logo=pug&logoColor=white&style=flat)
+
+---
+
+## **🛠 Outils & Technologies**
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=flat)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
 
-### **🔹 Outils de test**
+### **🧪 Testing**
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=flat)
 ![Vitest](https://img.shields.io/badge/-Vitest-646CFF?logo=vite&logoColor=white&style=flat)
@@ -120,14 +113,9 @@ Je suis également familier avec les pratiques de développement telles que les 
 
 N'hésitez pas à explorer mes repositories pour découvrir l'ensemble de mes projets !
 
-## ![Formation et compétence](ghiblitotoroooo.png) Formations et Compétences ![Formation et compétence](ggghibliq.gif)
-
-Outre mes compétences techniques, je mets l'accent sur le développement continu en apprenant de nouvelles technologies et en perfectionnant mes compétences existantes. J'ai également développé de solides soft skills au cours de mon parcours professionnel, notamment la capacité à travailler en équipe, à gérer une/des équipes, à résoudre des problèmes complexes et à mener à bien des projets divers et variés. Deux de mes points forts sont ma résistance au stress et ma capacité de résilience/adaptation.
-
-## ![Contact](ghibli_ponyoq.png) Contact
-
-Pour en savoir plus sur mon parcours professionnel et mes réalisations, n'hésitez pas à consulter mon [profil LinkedIn](linkedin.com/in/lionelzovi).
-
-N'hésitez pas à me contacter si vous souhaitez discuter de collaborations, de projets intéressants ou simplement échanger des idées ! 😊
+## ![Contact](ghibli_ponyoq.png) **Contact**
+📌 **LinkedIn** : [Mon profil](linkedin.com/in/lionelzovi)  
+📧 **Email** : `lionel.zovi@gmail.com`  
+💬 **Discutons de projets & collaborations !** 😊  
 
 ![Bye](ghiblibye.jpg)

@@ -2,48 +2,94 @@
 
 Développeur passionné avec une expertise variée dans le domaine du développement web et logiciel, Je travaille principalement avec les technologies suivantes :
 
-## Langages de programmation
-- Langages de programmation : 
- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&style=flat)
-- Frameworks : 
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-  ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&style=flat)
-  ![Astro](https://img.shields.io/badge/-Astro-FF5A03?logo=astro&logoColor=white&style=flat)
-- Outils de styling : 
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
-  ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
-  ![Pug](https://img.shields.io/badge/-Pug-A86454?logo=pug&logoColor=white&style=flat)
-- Backend : 
-  ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat)
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
-  ![Spring Data](https://img.shields.io/badge/-Spring%20Data-6DB33F?logo=spring&logoColor=white&style=flat)
-  ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?logo=springsecurity&logoColor=white&style=flat)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-- Bases de données : 
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-- Outils de déploiement :
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-  ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat)
-- Outils de build : 
-  ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=flat)
-  ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
-- Outils de test : 
-  ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)
-  ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=flat)
-  ![Vitest](https://img.shields.io/badge/-Vitest-646CFF?logo=vite&logoColor=white&style=flat)
-- Outils CI/CD :
-  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
-- Libraries UI :
-  ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap_5-7952B3?logo=bootstrap&logoColor=white&style=flat)
+# 💻 Stack & Compétences
+
+## **🌍 Cloud & Infrastructure**
+### **🔹 Cloud Providers**
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat)
+
+---
+
+## **🐳 Conteneurisation & Orchestration**
+### **🔹 Conteneurisation**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?logo=docker&logoColor=white&style=flat)
+
+### **🔹 Orchestration**
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+![Google Kubernetes Engine](https://img.shields.io/badge/-Google%20Kubernetes%20Engine-326CE5?logo=googlecloud&logoColor=white&style=flat)
+
+---
+
+## **🚀 Déploiement & CI/CD**
+### **🔹 Infrastructure as Code & CI/CD**
+![Google Artifact Registry](https://img.shields.io/badge/-Google%20Artifact%20Registry-4285F4?logo=googlecloud&logoColor=white&style=flat)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
+
+---
+
+## **📡 Bases de données & Gestion des secrets**
+### **🔹 Bases de données**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat)
+![Adminer](https://img.shields.io/badge/-Adminer-00A8E8?logo=mysql&logoColor=white&style=flat)
+
+### **🔹 Gestion des secrets & variables d’environnement**
+- Configuration `.env`
+- Variables d’environnement dans **Google Cloud**
+
+---
+
+## **💻 Langages de programmation**
+### **🔹 Langages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat)
+
+### **🔹 Frameworks**
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![NextJS](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
+![Astro](https://img.shields.io/badge/-Astro-FF5A03?logo=astro&logoColor=white&style=flat)
+
+### **🔹 Outils de styling**
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
+![Pug](https://img.shields.io/badge/-Pug-A86454?logo=pug&logoColor=white&style=flat)
+
+### **🔹 Backend**
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
+![Spring Data](https://img.shields.io/badge/-Spring%20Data-6DB33F?logo=spring&logoColor=white&style=flat)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?logo=springsecurity&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+
+---
+
+## **🔧 Outils & Technologies**
+### **🔹 Outils de build**
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=flat)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
+
+### **🔹 Outils de test**
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=flat)
+![Vitest](https://img.shields.io/badge/-Vitest-646CFF?logo=vite&logoColor=white&style=flat)
+
+---
+
+## **📖 Expérience DevOps**
+🚀 **Déploiement Cloud & DevOps** : J’ai mis en place **une infrastructure complète sur Google Cloud** en utilisant **Docker, Kubernetes et Google Kubernetes Engine (GKE)**.  
+🎯 **Processus** : Création d’un registre Docker avec **Google Artifact Registry**, déploiement de conteneurs avec **Kubernetes** et configuration de services exposés via **LoadBalancer**.  
+🔥 **Compétences acquises** : Déploiement cloud, CI/CD, conteneurisation avec **Docker**, orchestration avec **Kubernetes**, gestion des bases de données avec **MariaDB** & **Adminer**, monitoring des pods, et gestion des secrets.
+
+---
 
 
 Je suis également familier avec les pratiques de développement telles que les pipelines CI/CD (GitHub Actions), l'automatisation des tests, et la gestion de versions avec Git et GitHub.

@@ -76,6 +76,20 @@ Développeur passionné avec une expertise variée dans le domaine du développe
 
 ---
 
+## **🎨 Expérience Frontend**
+🚀 **Développement d'interfaces modernes** : Création **d'applications web dynamiques** en utilisant **HTML5, CSS3, SCSS, JavaScript/TypeScript** et des frameworks tels que **Angular, React, NextJS**.  
+🎯 **Processus** : Conception d’interfaces responsive, intégration d’APIs RESTful, et optimisation de l'expérience utilisateur via des tests A/B et l’analyse des performances.  
+🔥 **Compétences acquises** : UI/UX design, responsive design, gestion d’état (useReducer, Context API, NgRx pour Angular), et optimisation du rendu côté client.
+
+---
+
+## **🖥️ Expérience Backend**
+🚀 **Développement d'APIs & Microservices** : Mise en place **d'architectures backend robustes** avec **Java (Spring Boot)**, **Node.js** ou **Python**.  
+🎯 **Processus** : Conception et déploiement de services RESTful, intégration de bases de données relationnelles et NoSQL, et sécurisation des échanges via **JWT** et **OAuth2**.  
+🔥 **Compétences acquises** : Conception d’APIs, gestion des transactions, implémentation de tests unitaires et d’intégration, et mise en place d’une chaîne CI/CD.
+
+---
+
 ## **📖 Expérience DevOps**
 🚀 **Déploiement Cloud & DevOps** : Mise en place **d'une infrastructure complète sur Google Cloud** en utilisant **Docker, Kubernetes et Google Kubernetes Engine (GKE)**.  
 🎯 **Processus** : Création d’un registre Docker avec **Google Artifact Registry**, déploiement de conteneurs avec **Kubernetes** et configuration de services exposés via **LoadBalancer**.  

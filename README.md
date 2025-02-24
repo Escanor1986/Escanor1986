@@ -1,4 +1,6 @@
-# ![Hello](ghiblibowq.png) Bienvenue sur mon profil GitHub ! ![Hello](ghibli1q.gif)
+![Hello](header_readme.webp)
+
+# Bienvenue sur mon profil GitHub ! 
 
 Développeur passionné avec une expertise polyvalente en **développement web**, **logiciel** et **DevOps**, je conçois et optimise des applications modernes, scalables et performantes.
 

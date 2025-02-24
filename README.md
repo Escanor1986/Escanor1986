@@ -1,6 +1,12 @@
 # ![Hello](ghiblibowq.png) Bienvenue sur mon profil GitHub ! ![Hello](ghibli1q.gif)
 
-Développeur passionné avec une expertise variée dans le domaine du développement web et logiciel, je travaille principalement avec les technologies suivantes :
+Développeur passionné avec une expertise polyvalente en **développement web**, **logiciel** et **DevOps**, je conçois et optimise des applications modernes, scalables et performantes.
+
+📌 **Spécialités :**
+- Développement **frontend** & **backend** avec une stack **fullstack moderne**
+- **Cloud & DevOps** : Conteneurisation, orchestration, CI/CD, monitoring
+- **Architecture & scalabilité** : microservices, bases de données optimisées
+- **Tests & Qualité** : Storybook, Jest, Vitest
 
 ---
 
@@ -11,6 +17,8 @@ Développeur passionné avec une expertise variée dans le domaine du développe
 ![Google Kubernetes Engine](https://img.shields.io/badge/-Google%20Kubernetes%20Engine-326CE5?logo=googlecloud&logoColor=white&style=flat)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
 
+🚀 **Expérience** : Déploiement de microservices sur Google Cloud avec **Docker & Kubernetes**, gestion des bases de données distribuées et monitoring avancé.
+
 ---
 
 ## **🐳 Conteneurisation & DevOps**
@@ -18,6 +26,11 @@ Développeur passionné avec une expertise variée dans le domaine du développe
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?logo=docker&logoColor=white&style=flat)
 ![Google Artifact Registry](https://img.shields.io/badge/-Google%20Artifact%20Registry-4285F4?logo=googlecloud&logoColor=white&style=flat)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
+
+🔥 **Mise en place d’une infrastructure complète :**
+- Automatisation CI/CD avec **GitHub Actions**
+- Gestion des conteneurs avec **Docker** & orchestration avec **Kubernetes**
+- Optimisation du scaling via **GKE & LoadBalancer**
 
 ---
 
@@ -28,9 +41,10 @@ Développeur passionné avec une expertise variée dans le domaine du développe
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat)
 ![Adminer](https://img.shields.io/badge/-Adminer-00A8E8?logo=mysql&logoColor=white&style=flat)
 
-🔹 **Gestion des secrets & variables d’environnement** :  
-- Configuration `.env`  
-- Variables d’environnement dans **Google Cloud**
+🔹 **Gestion des données & Sécurité** :
+- **Optimisation des performances SQL & NoSQL**
+- Sécurisation des accès via **.env, Google Cloud Secrets Manager**
+- Gestion des transactions avec **Spring Data, Prisma ORM, Mongoose**
 
 ---
 
@@ -40,65 +54,25 @@ Développeur passionné avec une expertise variée dans le domaine du développe
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat)
 
-### **🔹 Frameworks Frontend**
+### **🔹 Frontend**
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![NextJS](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
 ![Astro](https://img.shields.io/badge/-Astro-FF5A03?logo=astro&logoColor=white&style=flat)
 
-### **🔹 Frameworks Backend**
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat)
+### **🔹 Backend**
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
-![Spring Data](https://img.shields.io/badge/-Spring%20Data-6DB33F?logo=spring&logoColor=white&style=flat)
-![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?logo=springsecurity&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
 
----
-
-## **🎨 UI & Styling**
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
-![Pug](https://img.shields.io/badge/-Pug-A86454?logo=pug&logoColor=white&style=flat)
-
----
-
-## **🛠 Outils & Technologies**
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=flat)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
-
-### **🧪 Testing**
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=flat)
-![Vitest](https://img.shields.io/badge/-Vitest-646CFF?logo=vite&logoColor=white&style=flat)
-
----
-
-## **🎨 Expérience Frontend**
-🚀 **Développement d'interfaces modernes** : Création **d'applications web dynamiques** en utilisant **HTML5, CSS3, SCSS, JavaScript/TypeScript** et des frameworks tels que **Angular, React, NextJS**.  
-🎯 **Processus** : Conception d’interfaces responsive, intégration d’APIs RESTful, et optimisation de l'expérience utilisateur via des tests A/B et l’analyse des performances.  
-🔥 **Compétences acquises** : UI/UX design, responsive design, gestion d’état (useReducer, Context API, NgRx pour Angular), et optimisation du rendu côté client.
-
----
-
-## **🖥️ Expérience Backend**
-🚀 **Développement d'APIs & Microservices** : Mise en place **d'architectures backend robustes** avec **Java (Spring Boot)**, **Node.js** ou **Python**.  
-🎯 **Processus** : Conception et déploiement de services RESTful, intégration de bases de données relationnelles et NoSQL, et sécurisation des échanges via **JWT** et **OAuth2**.  
-🔥 **Compétences acquises** : Conception d’APIs, gestion des transactions, implémentation de tests unitaires et d’intégration, et mise en place d’une chaîne CI/CD.
-
----
 
 ## **📖 Expérience DevOps**
-🚀 **Déploiement Cloud & DevOps** : Mise en place **d'une infrastructure complète sur Google Cloud** en utilisant **Docker, Kubernetes et Google Kubernetes Engine (GKE)**.  
-🎯 **Processus** : Création d’un registre Docker avec **Google Artifact Registry**, déploiement de conteneurs avec **Kubernetes** et configuration de services exposés via **LoadBalancer**.  
-🔥 **Compétences acquises** : Déploiement cloud, CI/CD, conteneurisation avec **Docker**, orchestration avec **Kubernetes**, gestion des bases de données avec **MariaDB** & **Adminer**, monitoring des pods, et gestion des secrets.
-
----
-
-
-Je suis également familier avec les pratiques de développement telles que les pipelines CI/CD (GitHub Actions), l'automatisation des tests, et la gestion de versions avec Git et GitHub.
+🎯 **Mise en place complète d’une infrastructure cloud** sur **Google Cloud** :
+- Déploiement de microservices avec **Docker & Kubernetes**
+- Automatisation des pipelines CI/CD avec **GitHub Actions & Jenkins**
+- Monitoring des pods et gestion des logs avancée
+- Sécurisation des bases de données et des secrets
+- 
 
 ## ![Projets récents](fireworkghibliq.gif)   Mes Projets
 

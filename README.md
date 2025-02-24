@@ -72,7 +72,6 @@ Développeur passionné avec une expertise polyvalente en **développement web**
 - Automatisation des pipelines CI/CD avec **GitHub Actions & Jenkins**
 - Monitoring des pods et gestion des logs avancée
 - Sécurisation des bases de données et des secrets
-- 
 
 ## ![Projets récents](fireworkghibliq.gif)   Mes Projets
 

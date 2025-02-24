@@ -93,8 +93,9 @@ Développeur passionné avec une expertise polyvalente en **développement web**
 
 📌 **Soft Skills & Approche Pro** : Expérience en freelance, gestion de projet agile, participation à des hackathons, préparation aux entretiens techniques et optimisation des workflows de développement.
 
+![Projets récents](header_projet.webp)
 
-## ![Projets récents](fireworkghibliq.gif)   Mes Projets
+##  Mes Projets
 
 | Projet | Description | Preview |
 |--------|-------------|---------|

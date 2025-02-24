@@ -1,6 +1,6 @@
 ![Hello](header_readme.webp)
 
-# Bienvenue sur mon profil GitHub ! 
+# ![Hello](ghiblibowq.png) Bienvenue sur mon profil GitHub ! ![Hello](ghibli1q.gif)
 
 Développeur passionné avec une expertise polyvalente en **développement web**, **logiciel** et **DevOps**, je conçois et optimise des applications modernes, scalables et performantes.
 
@@ -9,6 +9,8 @@ Développeur passionné avec une expertise polyvalente en **développement web**
 - **Cloud & DevOps** : Conteneurisation, orchestration, CI/CD, monitoring
 - **Architecture & scalabilité** : microservices, bases de données optimisées
 - **Tests & Qualité** : Storybook, Jest, Vitest
+- **Fondamentaux de la programmation** : gestion mémoire, structures de données, complexité algorithmique
+- **Soft Skills** : gestion de projet, hackathons, préparation aux entretiens techniques
 
 ---
 
@@ -30,9 +32,10 @@ Développeur passionné avec une expertise polyvalente en **développement web**
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
 
 🔥 **Mise en place d’une infrastructure complète :**
-- Automatisation CI/CD avec **GitHub Actions**
+- Automatisation CI/CD avec **GitHub Actions & Jenkins**
 - Gestion des conteneurs avec **Docker** & orchestration avec **Kubernetes**
 - Optimisation du scaling via **GKE & LoadBalancer**
+- Sécurisation des bases de données et gestion des secrets
 
 ---
 
@@ -56,24 +59,40 @@ Développeur passionné avec une expertise polyvalente en **développement web**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat)
 
+📌 **Compétences en programmation** : paradigmes POO, programmation fonctionnelle & réactive, optimisation des performances, principes SOLID, DRY, KISS, YAGNI.
+
+---
+
 ### **🔹 Frontend**
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![NextJS](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
 ![Astro](https://img.shields.io/badge/-Astro-FF5A03?logo=astro&logoColor=white&style=flat)
 
+🚀 **Expérience** : Développement de SPA & SSR, gestion d’état avec Context API et Redux, intégration de Storybook, optimisations de performances et accessibilité.
+
+---
+
 ### **🔹 Backend**
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
 
+📌 **Expérience** : Développement d’APIs RESTful & GraphQL, gestion des authentifications OAuth2 & JWT, mise en place de microservices, tests unitaires et intégration continue.
+
+---
 
 ## **📖 Expérience DevOps**
 🎯 **Mise en place complète d’une infrastructure cloud** sur **Google Cloud** :
 - Déploiement de microservices avec **Docker & Kubernetes**
 - Automatisation des pipelines CI/CD avec **GitHub Actions & Jenkins**
-- Monitoring des pods et gestion des logs avancée
-- Sécurisation des bases de données et des secrets
+- Monitoring avancé avec **Prometheus & Grafana**
+- Sécurisation des bases de données et gestion des secrets via **Google Cloud Secrets Manager**
+
+---
+
+📌 **Soft Skills & Approche Pro** : Expérience en freelance, gestion de projet agile, participation à des hackathons, préparation aux entretiens techniques et optimisation des workflows de développement.
+
 
 ## ![Projets récents](fireworkghibliq.gif)   Mes Projets
 

@@ -77,7 +77,7 @@ Développeur passionné avec une expertise variée dans le domaine du développe
 ---
 
 ## **📖 Expérience DevOps**
-🚀 **Déploiement Cloud & DevOps** : J’ai mis en place **une infrastructure complète sur Google Cloud** en utilisant **Docker, Kubernetes et Google Kubernetes Engine (GKE)**.  
+🚀 **Déploiement Cloud & DevOps** : Mise en place **d'une infrastructure complète sur Google Cloud** en utilisant **Docker, Kubernetes et Google Kubernetes Engine (GKE)**.  
 🎯 **Processus** : Création d’un registre Docker avec **Google Artifact Registry**, déploiement de conteneurs avec **Kubernetes** et configuration de services exposés via **LoadBalancer**.  
 🔥 **Compétences acquises** : Déploiement cloud, CI/CD, conteneurisation avec **Docker**, orchestration avec **Kubernetes**, gestion des bases de données avec **MariaDB** & **Adminer**, monitoring des pods, et gestion des secrets.
 

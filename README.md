@@ -21,7 +21,12 @@ Développeur passionné avec une expertise polyvalente en **développement web**
 ![Google Kubernetes Engine](https://img.shields.io/badge/-Google%20Kubernetes%20Engine-326CE5?logo=googlecloud&logoColor=white&style=flat)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
 
-🚀 **Expérience** : Déploiement de microservices sur Google Cloud avec **Docker & Kubernetes**, gestion des bases de données distribuées et monitoring avancé.
+🚀 **Expérience** : 
+
+- Déploiement de microservices sur Google Cloud avec **Docker & Kubernetes**, gestion des bases de données distribuées et monitoring avancé.
+- Déploiement de trois APIs sur Heroku avec gestion des bases de données et authentification sécurisée.
+- Hébergement de deux projets fullstack Next.js sur Vercel, avec gestion des DNS et certificats SSL.
+- Configuration et gestion avancée des DNS pour Mailgun, permettant l’envoi et la réception sécurisés d’emails transactionnels.
 
 ---
 
@@ -53,6 +58,15 @@ Développeur passionné avec une expertise polyvalente en **développement web**
 
 ---
 
+## **🎨 UI & Graphics**
+
+🚀 **Expérience avec le rendu graphique** :
+
+- Développement de jeux et animations interactives en PixiJS.
+- Intégration avec React via PixiReact pour un rendu graphique performant dans des applications modernes.
+
+---
+
 ## **💻 Langages & Frameworks**
 ### **🔹 Langages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
@@ -69,7 +83,7 @@ Développeur passionné avec une expertise polyvalente en **développement web**
 ![NextJS](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
 ![Astro](https://img.shields.io/badge/-Astro-FF5A03?logo=astro&logoColor=white&style=flat)
 
-🚀 **Expérience** : Développement de SPA & SSR, gestion d’état avec Context API et Redux, intégration de Storybook, optimisations de performances et accessibilité.
+🚀 **Expérience** : Développement de SPA & SSR, gestion d’état avec Context API et useReducer, intégration de Storybook, optimisations de performances et accessibilité.
 
 ---
 

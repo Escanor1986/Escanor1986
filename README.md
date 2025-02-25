@@ -62,9 +62,9 @@ Développeur passionné avec une expertise polyvalente en **développement web**
 ---
 
 ## 🎨 UI, Graphics & Data Visualization  
-![PixiJS](https://img.shields.io/badge/-PixiJS-FF5500?logo=pixijs&logoColor=white&style=flat)  
-![PixiReact](https://img.shields.io/badge/-PixiReact-61DAFB?logo=react&logoColor=white&style=flat)  
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=flat)  
+![PixiJS](https://img.shields.io/badge/-PixiJS-FF5500?logo=pixijs&logoColor=white&style=flat)
+![PixiReact](https://img.shields.io/badge/-PixiReact-61DAFB?logo=react&logoColor=white&style=flat)
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=flat)
 ![ng2-charts](https://img.shields.io/badge/-ng2--charts-DD0031?logo=angular&logoColor=white&style=flat)  
 
 🚀 **Expérience avec le rendu graphique et la visualisation de données** :  

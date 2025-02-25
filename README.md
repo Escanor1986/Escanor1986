@@ -103,15 +103,6 @@ Développeur passionné avec une expertise polyvalente en **développement web**
 
 ---
 
-## **📖 Expérience DevOps**
-🎯 **Mise en place complète d’une infrastructure cloud** sur **Google Cloud** :
-- Déploiement de microservices avec **Docker & Kubernetes**
-- Automatisation des pipelines CI/CD avec **GitHub Actions & Jenkins**
-- Monitoring avancé avec **Prometheus & Grafana**
-- Sécurisation des bases de données et gestion des secrets via **Google Cloud Secrets Manager**
-
----
-
 📌 **Soft Skills & Approche Pro** : Expérience en freelance, gestion de projet agile, participation à des hackathons, préparation aux entretiens techniques et optimisation des workflows de développement.
 
 ![Projets récents](header_projet.webp)

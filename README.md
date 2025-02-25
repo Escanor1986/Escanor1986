@@ -20,6 +20,9 @@ Développeur passionné avec une expertise polyvalente en **développement web**
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat)
 ![Google Kubernetes Engine](https://img.shields.io/badge/-Google%20Kubernetes%20Engine-326CE5?logo=googlecloud&logoColor=white&style=flat)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
+![Mailgun](https://img.shields.io/badge/-Mailgun-FF0000?logo=mailgun&logoColor=white&style=flat)
 
 🚀 **Expérience** : 
 
@@ -59,6 +62,8 @@ Développeur passionné avec une expertise polyvalente en **développement web**
 ---
 
 ## **🎨 UI & Graphics**
+![PixiJS](https://img.shields.io/badge/-PixiJS-FF5500?logo=pixijs&logoColor=white&style=flat)
+![PixiReact](https://img.shields.io/badge/-PixiReact-61DAFB?logo=react&logoColor=white&style=flat)
 
 🚀 **Expérience avec le rendu graphique** :
 

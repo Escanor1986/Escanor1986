@@ -172,9 +172,9 @@ Développeur passionné avec une expertise polyvalente en **développement web**
 
 N'hésitez pas à explorer mes repositories pour découvrir l'ensemble de mes projets !
 
-## ![Contact](ghibli_ponyoq.png) **Contact**
+## **Contact**
 📌 **LinkedIn** : [Mon profil](linkedin.com/in/lionelzovi)  
 📧 **Email** : `lionel.zovi@gmail.com`  
 💬 **Discutons de projets & collaborations !** 😊  
 
-![Bye](ghiblibye.jpg)
+![Bye](readme_footer.webp)

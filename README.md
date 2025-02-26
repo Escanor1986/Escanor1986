@@ -61,6 +61,18 @@ Développeur passionné avec une expertise polyvalente en **développement web**
 
 ---
 
+## 🔄 🛠️ Outils de versionning
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLens](https://img.shields.io/badge/GitLens-%230071C5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+📌 **Expérience avec les outils de gestion de versions** :
+- 🌿 **Git** : Gestion avancée des branches, rebase, cherry-pick, hooks...
+- 🏗️ **GitHub** : CI/CD, Actions, PRs, Code Reviews, GitHub Pages...
+- 🔎 **GitLens** : Analyse et tracking des commits dans VS Code
+
+---
+
 ## 🎨 UI, Graphics & Data Visualization  
 ![PixiJS](https://img.shields.io/badge/-PixiJS-FF5500?logo=pixijs&logoColor=white&style=flat)
 ![PixiReact](https://img.shields.io/badge/-PixiReact-61DAFB?logo=react&logoColor=white&style=flat)

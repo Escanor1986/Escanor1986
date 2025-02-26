@@ -115,7 +115,32 @@ Développeur passionné avec une expertise polyvalente en **développement web**
 
 ---
 
-📌 **Soft Skills & Approche Pro** : Expérience en freelance, gestion de projet agile, participation à des hackathons, préparation aux entretiens techniques et optimisation des workflows de développement.
+## 🧠 Soft Skills & Approche Pro
+
+### 🚀 Compétences clés
+- 🤝 **Travail en équipe** : Communication fluide, pair programming, code reviews constructives
+- 🎯 **Résolution de problèmes** : Pensée analytique, capacité d’adaptation aux imprévus
+- 🏗️ **Gestion de projet** : Méthodologies **Agile/Scrum**, gestion du backlog, sprint planning
+- 🔍 **Esprit critique & amélioration continue** : Remise en question des process pour optimiser le développement
+- ⏳ **Gestion du temps & autonomie** : Expérience en **freelance**, respect des deadlines, organisation efficace
+- 🎤 **Prise de parole & vulgarisation technique** : Expérience en **mentorat, formation et présentations techniques**
+
+### 🎯 Expériences & Approche Professionnelle
+- 🛠️ **Freelance & autonomie** : Gestion des projets clients, relation client, estimation & suivi des tâches
+- 🏆 **Hackathons & challenges** : Participation à des hackathons, compétition sous pression, innovation rapide
+- 📚 **Préparation aux entretiens techniques** : Entraînement aux algorithmes, system design, live coding
+- 🔄 **Optimisation des workflows** : Automatisation des tâches, CI/CD, amélioration des process de développement
+
+### 📌 Soft Skills en action
+
+| 🏆 Situation | 💡 Approche | ✅ Résultat |
+|-------------|-----------|------------|
+| **Projet en freelance avec deadline serrée** | Planification précise et sprint intensif | Projet livré à temps, client satisfait |
+| **Refonte d’un workflow inefficace** | Automatisation et documentation claire | Réduction du temps de développement de 30% |
+| **Participation à un hackathon** | Travail sous pression, coordination rapide | Prototype fonctionnel en 48h, finaliste 🏅 |
+
+---
+
 
 ![Projets récents](header_projet.webp)
 

@@ -48,6 +48,12 @@ I maintain a [technology watch](https://escanor1986.github.io/veille_techno-OC/)
 - Advanced TypeScript patterns
 - Web accessibility standards
 
+## 🤝 Open Source Contributions
+
+I'm an active contributor to [NX Academy](https://nx.academy/), an outstanding open-source learning platform developed by a colleague. NX Academy provides free, high-quality web development education accessible to everyone.
+
+As a technical writer, I create comprehensive articles and tutorials on modern JavaScript frameworks, best practices, performance optimization, and deployment strategies. This allows me to share knowledge with the community while continuously refining my own understanding of complex concepts.
+
 ## 📫 Let's Connect
 
 - **Email**: [lionel.zovi@gmail.com](mailto:lionel.zovi@gmail.com)

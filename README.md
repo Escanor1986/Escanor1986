@@ -23,11 +23,14 @@ Fullstack Web Developer passionate about creating scalable, performant, and user
 
 ## 🚀 What I Do
 
-- **Fullstack Development**: Creating responsive, accessible web applications with modern frameworks
-- **Cloud-Native Solutions**: Participated in the development and realized the deployement of a cloud-native application utilizing containerization and orchestration technologies.
-- **DevOps Practices**: Implementing CI/CD pipelines and infrastructure as code
-- **Architecture Design**: Experience in implementing layered and MVC (Model-View-Controller) architectural patterns in application development.
-- **Performance Optimization**: Enhancing application performance and user experience
+- **Fullstack Development:** Design and implementation of complete web applications using modern frameworks like Next.js, from development to deployment and monitoring.
+- **JavaScript & TypeScript Expertise:** Strong proficiency in JavaScript and TypeScript, with the ability to handle complex logic and functional programming patterns, including advanced use of array methods like reduce.
+- **Object-Oriented Programming (OOP):** Applied OOP principles in building scalable and maintainable applications, utilizing concepts such as encapsulation, inheritance, and polymorphism.
+- **Backend Development with Java & Spring Boot:** Developed RESTful APIs using Spring Boot, implementing both stateless and stateful authentication mechanisms with JWT.
+- **Frontend Development:** Experienced in building responsive and accessible user interfaces with Angular and React, ensuring optimal user experience.
+- **DevOps Practices:** Implementation of CI/CD pipelines and infrastructure as code to streamline development workflows and ensure reliable deployments.
+- **Performance Optimization:** Focused on enhancing application performance and user experience through code optimization and efficient resource management.
+
 
 ## 📂 Featured Projects
 
@@ -35,9 +38,9 @@ For a complete showcase of my projects with detailed descriptions, code samples,
 
 Here are a few highlights:
 
-- **[Odoo Hackathon](https://github.com/Escanor1986/hackathon-2024)**: Cloud-native application deployed on GCP with Kubernetes
+- **[Odoo Hackathon](https://github.com/Escanor1986/hackathon-2024)**: Cloud-native application deployed on GCP with Kubernetes (React, Nodejs, MariaDB & Docker)
 - **[Telesport](https://github.com/Escanor1986/Telesport)**: Angular data visualization application
-- **[House Way](https://github.com/Escanor1986/Vacations_RBNB_Rentals)**: Fullstack vacation rental platform
+- **[House Way](https://github.com/Escanor1986/Vacations_RBNB_Rentals)**: Fullstack vacation rental platform (React, Nodejs & MongoDB)
 
 ## 📚 Always Learning
 

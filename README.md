@@ -24,9 +24,9 @@ Fullstack Web Developer passionate about creating scalable, performant, and user
 ## 🚀 What I Do
 
 - **Fullstack Development**: Creating responsive, accessible web applications with modern frameworks
-- **Cloud-Native Solutions**: Deploying scalable applications using containerization and orchestration
+- **Cloud-Native Solutions**: Participated in the development and realized the deployement of a cloud-native application utilizing containerization and orchestration technologies.
 - **DevOps Practices**: Implementing CI/CD pipelines and infrastructure as code
-- **Architecture Design**: Designing resilient microservices architectures
+- **Architecture Design**: Experience in implementing layered and MVC (Model-View-Controller) architectural patterns in application development.
 - **Performance Optimization**: Enhancing application performance and user experience
 
 ## 📂 Featured Projects

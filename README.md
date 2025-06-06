@@ -1,4 +1,3 @@
-![Header Banner](header_readme.webp)
 
 # Hello, I'm Lionel Zovi 👋
 

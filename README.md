@@ -1,11 +1,34 @@
-
 # Hello, I'm Lionel Zovi 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Escanor1986.github.io-blue?style=for-the-badge&logo=github)](https://escanor1986.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lionelzovi)
 [![Tech Watch](https://img.shields.io/badge/Tech_Watch-Latest_Trends-green?style=for-the-badge&logo=rss)](https://escanor1986.github.io/veille_techno-OC/)
 
-Fullstack Web Developer passionate about creating scalable, performant, and user-friendly applications. I specialize in modern JavaScript ecosystems and DevOps practices.
+Étudiant en **ingénieur informatique (UNamur)**, en reconversion, avec un background solide en **web moderne** ET en **informatique bas niveau**.  
+🎯 Je cherche un poste / collaboration en **dev web fullstack (front ou back)**, **software engineering généraliste** ou **systèmes**.  
+📍 Disponibilité : **immédiate**.
+
+---
+
+## 🧠 Ce que je sais faire
+
+- **Web / App**
+  - Front : **React**, **Next.js**, **Angular**
+  - Back : **Node.js**, **Spring Boot**
+  - DB : **MongoDB**, **SQL**
+  - DevOps : **Docker**, **GitHub Actions**, notions **Kubernetes**, **GCP**
+
+- **C & bas niveau**
+  - Programmation en **C** (pointeurs, gestion mémoire basique, modularisation)
+  - **Structures de données** (listes, piles, files…)
+  - **Assembly MIPS 32** : traduction de C → assembleur, gestion de la pile, registres
+  - Exercices réalisés : `while`, `for`, `if/else`, **Fibonacci itératif**, **fonction récursive** entièrement simulés dans les registres
+
+- **Maths pour l’info**
+  - Math discrète, vectoriel, matriciel, systèmes d’équations
+  - Algorithmie et analyse de complexité
+
+---
 
 ## 💻 Core Technologies
 
@@ -20,48 +43,38 @@ Fullstack Web Developer passionate about creating scalable, performant, and user
 
 </div>
 
-## 🚀 What I Do
+---
 
-- **Fullstack Development:** Design and implementation of complete web applications using modern frameworks like Next.js, from development to deployment and monitoring.
-- **JavaScript & TypeScript Expertise:** Strong proficiency in JavaScript and TypeScript, with the ability to handle complex logic and functional programming patterns, including advanced use of array methods like reduce.
-- **Object-Oriented Programming (OOP):** Applied OOP principles in building scalable and maintainable applications, utilizing concepts such as encapsulation, inheritance, and polymorphism.
-- **Backend Development with Java & Spring Boot:** Developed RESTful APIs using Spring Boot, implementing both stateless and stateful authentication mechanisms with JWT.
-- **Frontend Development:** Experienced in building responsive and accessible user interfaces with Angular and React, ensuring optimal user experience.
-- **DevOps Practices:** Implementation of CI/CD pipelines and infrastructure as code to streamline development workflows and ensure reliable deployments.
-- **Performance Optimization:** Focused on enhancing application performance and user experience through code optimization and efficient resource management.
+## 🧪 Projets à épingler
 
+- **[Odoo Hackathon](https://github.com/Escanor1986/hackathon-2024)** – app cloud-native (React, Node.js, MariaDB, Docker, GCP, K8s)
+- **[Telesport](https://github.com/Escanor1986/Telesport)** – data viz Angular
+- **[House Way](https://github.com/Escanor1986/Vacations_RBNB_Rentals)** – plateforme fullstack (React + Node.js + MongoDB)
+- **C – Structures de données (WIP)** – implémentations simples pour montrer pointeurs, modularisation, tests
+- **MIPS 32 – Traductions C → assembly** – `while`, `for`, `if/else`, **Fibonacci itératif**, **fonction récursive** avec simulation des registres
 
-## 📂 Featured Projects
+---
 
-For a complete showcase of my projects with detailed descriptions, code samples, and live demos, please visit [my portfolio](https://escanor1986.github.io/projects/).
+## 🌍 Langues
 
-Here are a few highlights:
+- 🇫🇷 Français : **maternelle**
+- 🇬🇧 Anglais : **B1–B2**
+- 🇳🇱 Néerlandais : **B1–B2**
+- 🇮🇹 Italien : **A2**
 
-- **[Odoo Hackathon](https://github.com/Escanor1986/hackathon-2024)**: Cloud-native application deployed on GCP with Kubernetes (React, Nodejs, MariaDB & Docker)
-- **[Telesport](https://github.com/Escanor1986/Telesport)**: Angular data visualization application
-- **[House Way](https://github.com/Escanor1986/Vacations_RBNB_Rentals)**: Fullstack vacation rental platform (React, Nodejs & MongoDB)
+---
 
-## 📚 Always Learning
+## 📚 Veille & autoformation
 
-I maintain a [technology watch](https://escanor1986.github.io/veille_techno-OC/) where I document trends and innovations in web development. I'm currently exploring:
+Parcours en reconversion avec beaucoup d’autoformation (OpenClassrooms, Codecademy, Dyma, NX Academy, FrontendMentor…).  
+Je centralise ici 👉 [Tech Watch](https://escanor1986.github.io/veille_techno-OC/)  
 
-- Edge computing and serverless architectures
-- Web performance optimization techniques
-- Advanced TypeScript patterns
-- Web accessibility standards
+---
 
-## 🤝 Open Source Contributions
-
-I'm an active contributor to [NX Academy](https://nx.academy/), an outstanding open-source learning platform developed by a colleague. NX Academy provides free, high-quality web development education accessible to everyone.
-
-As a technical writer, I create comprehensive articles and tutorials on modern JavaScript frameworks, best practices, performance optimization, and deployment strategies. This allows me to share knowledge with the community while continuously refining my own understanding of complex concepts.
-
-## 📫 Let's Connect
+## 📫 Me contacter
 
 - **Email**: [lionel.zovi@gmail.com](mailto:lionel.zovi@gmail.com)
 - **LinkedIn**: [linkedin.com/in/lionelzovi](https://linkedin.com/in/lionelzovi)
 - **Portfolio**: [escanor1986.github.io](https://escanor1986.github.io)
-
-Feel free to reach out for collaborations, opportunities, or just to exchange ideas about web development!
 
 ![Footer](readme_footer.webp)

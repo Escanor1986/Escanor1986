@@ -47,7 +47,7 @@
 
 ## 🧪 Projets à épingler
 
-- **[Odoo Hackathon](https://github.com/Escanor1986/hackathon-2024)** – app cloud-native (React, Node.js, MariaDB, Docker, GCP, K8s)
+- **[Chemins de Conscience](https://www.cheminsdeconscience.com/)** – site/app **fullstack** réalisé de A à Z (TypeScript, Next.js/React, PostgreSQL, Vercel, OVH, Mailgun)
 - **[Telesport](https://github.com/Escanor1986/Telesport)** – data viz Angular
 - **[House Way](https://github.com/Escanor1986/Vacations_RBNB_Rentals)** – plateforme fullstack (React + Node.js + MongoDB)
 - **C – Structures de données (WIP)** – implémentations simples pour montrer pointeurs, modularisation, tests
